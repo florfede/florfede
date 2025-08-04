@@ -56,7 +56,7 @@ Here are some of the projects I'm currently working on or have recently complete
 
 - 🇦🇷 Based in Argentina
 - 🎓 Master’s thesis: *Forecasting the Success of New Artists in the Music Industry*
-- 💼 Currently working at **Sound Royalties**, building APIs and data products for artist financing
+- 💼 Currently working at **Sound Royalties**, building ML models and data products for artist financing
 - ✨ Passionate about music, clean code, and turning ideas into production-grade systems
 
 ---
