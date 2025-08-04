@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Florencia Federico
 
-I'm a Data & Machine Learning Engineer with a background in software engineering and a strong focus on cloud infrastructure, time series forecasting, and NLP. I love building solutions that combine data, automation, and business impact — especially in the music and financial industries.
+I'm a Data & Machine Learning Engineer with a background in software engineering and a strong focus on cloud infrastructure, time series forecasting, and NLP. I love building solutions that combine data, automation, and business impact.
 
 ---
 
 ## ⚙️ Tech Stack
 
 - **Languages**: Python, SQL
-- **ML/AI**: XGBoost, LSTM, Prophet, RoBERTa, Scikit-learn
-- **Data Engineering**: Azure Data Factory, Azure Blob Storage, Azure SQL, Azure Batch
+- **ML Frameworks**: PyTorch (LSTM), Transformers (RoBERTa), XGBoost, Prophet, Scikit-learn
+- **Data Engineering**: Azure Data Factory, Azure Blob Storage, Azure Batch
 - **APIs**: FastAPI, OAuth2, JWT, REST
-- **Tools**: Git, Docker, Power BI, VS Code
+- **Tools**: Git, Docker, Power BI
 
 ---
 
