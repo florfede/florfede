@@ -46,7 +46,7 @@ Here are some of the projects I'm currently working on or have recently complete
 | Project | Description |
 |--------|-------------|
 | [`royalty-forecasting-timeseries`](https://github.com/florfede/royalty-forecasting-timeseries) | Predicts monthly royalty earnings per artist using models like XGBoost, SARIMAX, Prophet and LSTM |
-| [`sentiment-analysis-social-media`](https://github.com/florfede/sentiment-analysis-social-media) | Sentiment analysis on Instagram and Twitter comments using RoBERTa and NLP techniques |
+| [`sentiment-analysis-social-media`](https://github.com/florfede/sentiment-analysis-social-media) | Sentiment analysis on Instagram comments using RoBERTa and NLP techniques |
 | [`azure-etl-pipeline-sql`](https://github.com/florfede/azure-etl-pipeline-sql) | An automated pipeline using Azure Data Factory, Python and SQL Server to process CSV data from Blob Storage |
 | [`fastapi-ml-api`](https://github.com/florfede/fastapi-ml-api) | A FastAPI app that serves trained ML models and calculates artist advances from earnings data |
 
