@@ -6,11 +6,36 @@ I'm a Data & Machine Learning Engineer with a background in software engineering
 
 ## ⚙️ Tech Stack
 
-- **Languages**: Python, SQL
-- **ML Frameworks**: PyTorch (LSTM), Transformers (RoBERTa), XGBoost, Prophet, Scikit-learn
-- **Data Engineering**: Azure Data Factory, Azure Blob Storage, Azure Batch
-- **APIs**: FastAPI, OAuth2, JWT, REST
-- **Tools**: Git, Docker, Power BI
+### 🧠 Languages
+- **Python** (data pipelines, API development, ML modeling)  
+- **SQL** (T-SQL, stored procedures, performance optimization)  
+- *JavaScript* (React integration in internal tools)
+
+### 🤖 Machine Learning & AI
+- **XGBoost**, **Prophet**, **PyTorch (LSTM)**, **Scikit-learn**  
+- **Transformers** (RoBERTa for sentiment analysis)  
+- *Time Series Forecasting* (Prophet, SARIMAX, LSTM)  
+- *ML Ops fundamentals* (model evaluation, reproducibility, metrics tracking)
+
+### 🛠️ Data Engineering & Cloud
+- **Azure Data Factory**, **Azure Blob Storage**, **Azure Batch**  
+- **SQL Server** (ETL, indexing, partitioning, views)  
+- *Apache Spark* (large file processing - migration in progress)  
+- *CI/CD with Azure DevOps* (pipeline integration and deployment awareness)
+
+### 🔐 API Development & Integration
+- **FastAPI** (design, security, async processing)  
+- **OAuth2**, **JWT** (secure authentication flows)  
+- **RESTful API design & integration** (Salesforce)  
+- *Postman* (testing and documentation)
+
+### 🧰 Tools & DevOps
+- **Git**, **Docker**, **Power BI**  
+- *MLFlow* (model tracking exploration)  
+- *VS Code*, *Jupyter*, *Azure Portal*
+
+### 🌐 Web Development
+- *React* (internal web app, file upload, API integration)  
 
 ---
 
